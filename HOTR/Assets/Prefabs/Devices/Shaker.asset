@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e740c60713b24946afaa69bc0d90a52, type: 3}
+  m_Name: Shaker
+  m_EditorClassIdentifier: 
+  ingredientName: Shaker
+  isHeld: 0
+  toSpawn: {fileID: 1314143669766705651, guid: 34b1ac0c04ab0954bbcfe92b6a5b38e1, type: 3}
+  sign: {fileID: 1149269980219085849, guid: 3fb6df9aa2432234babe3e82910c54ef, type: 3}

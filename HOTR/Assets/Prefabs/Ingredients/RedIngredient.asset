@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6e740c60713b24946afaa69bc0d90a52, type: 3}
+  m_Name: RedIngredient
+  m_EditorClassIdentifier: 
+  ingredientName: Red
+  isHeld: 0
+  toSpawn: {fileID: 8820303683851535025, guid: cfed6d72660988b41b107d960e6dad5c, type: 3}
+  sign: {fileID: 1982481619977375199, guid: b4f5e8a16c7338e4e846c2407cf53f10, type: 3}
